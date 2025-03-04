@@ -46,8 +46,9 @@ W : [25.60, 38.79, 0.31, 61.90]
 | Metric | Value |
 |--------|--------|
 | **Mean Absolute Error (MAE)** | 8.56 |
+| **Mean Squared Error (MSE)** | 109.86 |
 | **Root Mean Squared Error (RMSE)** | 10.48 |
-| **R² Score** | 0.978 |
+| **Mean Absolute Percentage Error (MAPE)** | 1.79% |
 
 ## 📊 Visualizations
 The notebook includes the following key plots:
@@ -57,7 +58,7 @@ The notebook includes the following key plots:
 - **Length of Membership** has the highest positive correlation with spending.
 - **Time on App** also significantly impacts spending.
 - **Time on Website has minimal influence**, suggesting a stronger focus on mobile engagement.
-- The model explains **98.20%** of the variance in customer spending, demonstrating high accuracy.
+- The model explains **98.21%** of the variance in customer spending, demonstrating high accuracy.
 
 ## 📝 Author
 Developed as part of a **machine learning project on Linear Regression**, focusing on customer behavior analysis.
