@@ -52,7 +52,6 @@ W : [25.60, 38.79, 0.31, 61.90]
 ## 📊 Visualizations
 The notebook includes the following key plots:
 - **Actual vs. Predicted Values** – A scatter plot comparing true vs. predicted spending.
-- **Residual Distribution** – A histogram of the model errors.
 
 ## 🔍 Key Insights
 - **Length of Membership** has the highest positive correlation with spending.
